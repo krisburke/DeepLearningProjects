@@ -1,6 +1,6 @@
 # Deep Learning Projects
 
-This repo contains the code for projects I've completed as part of the [Udacity Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) . I completed this course in order to learn and gain skills in applying Machine Learning and Deep Learning as tools to solve problems.  The general course outline and content is located [here](https://github.com/udacity/deep-learning). 
+This repo links to the code for projects I've completed as part of the [Udacity Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) . I completed this course in order to learn and gain skills in applying Machine Learning and Deep Learning as tools to solve problems.  The general course outline and content is located [here](https://github.com/udacity/deep-learning). 
 
 ## Projects
 
